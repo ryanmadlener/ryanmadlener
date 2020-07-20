@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-I am a Junior at Southern Methodist University studying Statistical Science and Computer Science
+:school: I am a Junior at Southern Methodist University studying Statistical Science and Computer Science
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ryanmadlener)

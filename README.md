@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-:school: I am a Junior at Southern Methodist University studying Statistical Science and Computer Science
+:school: I am a Junior at Southern Methodist University studying Statistical Science and Computer Science \
 :star2: I am currently working on different regression models I have learned in my classes which you can check out [here](https://github.com/ryanmadlener/regression)
 
 
